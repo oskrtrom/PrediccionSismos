@@ -1,4 +1,6 @@
-Este proyecto de Data Mining centrado en la predicción de sismos ha logrado avances significativos mediante la aplicación de modelos de 
+Este repositorio alberga un proyecto de Data Mining centrado en la predicción de sismos. La implementación de modelos como regresión lineal y ARIMA, junto con estrategias de balanceamiento de datos, destaca la amplitud de enfoques utilizados. La consideración cuidadosa de la calidad de los datos, incluyendo técnicas de imputación, demuestra la atención a los detalles.
+
+La estructura organizada del GitHub, junto con la documentación completa en cada paso, hace que el proyecto sea accesible para otros investigadores y entusiastas de la ciencia de datos. Las visualizaciones proporcionan una representación efectiva de los resultados, mejorando la interpretación y utilidad del proyecto en el ámbito de la predicción de sismEste proyecto de Data Mining centrado en la predicción de sismos ha logrado avances significativos mediante la aplicación de modelos de 
 regresión lineal, ARIMA, y técnicas de balanceamiento de datos. El análisis de la autocorrelación y la visualización de series temporales 
 han proporcionado insights valiosos sobre la ocurrencia de eventos sísmicos.
 
